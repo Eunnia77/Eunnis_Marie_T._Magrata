@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\love you lab\love you lab\bin\Debug\love you lab.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\love you lab\love you lab\obj\Debug\love you lab.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\love you lab\love you lab\obj\Debug\love_you_lab.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\love you lab\love you lab\obj\Debug\love_you_lab.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\love you lab\love you lab\obj\Debug\love you lab.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\love you lab\love you lab\obj\Debug\love you lab.xml
+c:\users\administrator\documents\visual studio 2015\Projects\love you lab\love you lab\bin\Debug\love you lab.exe
+c:\users\administrator\documents\visual studio 2015\Projects\love you lab\love you lab\bin\Debug\love you lab.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\love you lab\love you lab\bin\Debug\love you lab.xml
+c:\users\administrator\documents\visual studio 2015\Projects\love you lab\love you lab\obj\Debug\love you lab.exe
+c:\users\administrator\documents\visual studio 2015\Projects\love you lab\love you lab\obj\Debug\love you lab.pdb

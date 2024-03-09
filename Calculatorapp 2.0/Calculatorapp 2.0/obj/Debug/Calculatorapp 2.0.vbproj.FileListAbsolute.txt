@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Calculatorapp 2.0\Calculatorapp 2.0\bin\Debug\Calculatorapp 2.0.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Calculatorapp 2.0\Calculatorapp 2.0\bin\Debug\Calculatorapp 2.0.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Calculatorapp 2.0\Calculatorapp 2.0\bin\Debug\Calculatorapp 2.0.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Calculatorapp 2.0\Calculatorapp 2.0\bin\Debug\Calculatorapp 2.0.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Calculatorapp 2.0\Calculatorapp 2.0\obj\Debug\Calculatorapp 2.0.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Calculatorapp 2.0\Calculatorapp 2.0\obj\Debug\Calculatorapp_2._0.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Calculatorapp 2.0\Calculatorapp 2.0\obj\Debug\Calculatorapp_2._0.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Calculatorapp 2.0\Calculatorapp 2.0\obj\Debug\Calculatorapp 2.0.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Calculatorapp 2.0\Calculatorapp 2.0\obj\Debug\Calculatorapp 2.0.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Calculatorapp 2.0\Calculatorapp 2.0\obj\Debug\Calculatorapp 2.0.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Calculatorapp 2.0\Calculatorapp 2.0\obj\Debug\Calculatorapp 2.0.pdb

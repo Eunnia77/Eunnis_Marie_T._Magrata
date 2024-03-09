@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2015\Projects\file_basic\file_basic\bin\Debug\file_basic.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\file_basic\file_basic\bin\Debug\file_basic.exe
+c:\users\administrator\documents\visual studio 2015\Projects\file_basic\file_basic\bin\Debug\file_basic.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\file_basic\file_basic\bin\Debug\file_basic.xml
+c:\users\administrator\documents\visual studio 2015\Projects\file_basic\file_basic\obj\Debug\file_basic.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\file_basic\file_basic\obj\Debug\file_basic.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\file_basic\file_basic\obj\Debug\file_basic.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\file_basic\file_basic\obj\Debug\file_basic.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\file_basic\file_basic\obj\Debug\file_basic.exe
+c:\users\administrator\documents\visual studio 2015\Projects\file_basic\file_basic\obj\Debug\file_basic.xml
+c:\users\administrator\documents\visual studio 2015\Projects\file_basic\file_basic\obj\Debug\file_basic.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\file_basic\file_basic\bin\Debug\MAGRATA_PRELIMS.exe.config

@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\GRADE SYSTEM\GRADE SYSTEM\bin\Debug\GRADE SYSTEM.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\GRADE SYSTEM\GRADE SYSTEM\obj\Debug\GRADE SYSTEM.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\GRADE SYSTEM\GRADE SYSTEM\obj\Debug\GRADE_SYSTEM.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\GRADE SYSTEM\GRADE SYSTEM\obj\Debug\GRADE_SYSTEM.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\GRADE SYSTEM\GRADE SYSTEM\obj\Debug\GRADE SYSTEM.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\GRADE SYSTEM\GRADE SYSTEM\bin\Debug\GRADE SYSTEM.exe
+c:\users\administrator\documents\visual studio 2015\Projects\GRADE SYSTEM\GRADE SYSTEM\bin\Debug\GRADE SYSTEM.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\GRADE SYSTEM\GRADE SYSTEM\bin\Debug\GRADE SYSTEM.xml
+c:\users\administrator\documents\visual studio 2015\Projects\GRADE SYSTEM\GRADE SYSTEM\obj\Debug\GRADE SYSTEM.exe
+c:\users\administrator\documents\visual studio 2015\Projects\GRADE SYSTEM\GRADE SYSTEM\obj\Debug\GRADE SYSTEM.xml
+c:\users\administrator\documents\visual studio 2015\Projects\GRADE SYSTEM\GRADE SYSTEM\obj\Debug\GRADE SYSTEM.pdb

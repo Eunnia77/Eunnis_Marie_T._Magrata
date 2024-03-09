@@ -1,0 +1,2 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Form1_tab\Form1_tab\bin\Debug\Form1_tab.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Form1_tab\Form1_tab\bin\Debug\MAGRATA_PRELIMS.exe.config
